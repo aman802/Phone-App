@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\pre-dexed\debug\classes-3db7e6e3b5d0de804f6f74d905d64930e448cabe.jar" />
+    </item>
+
+</items>

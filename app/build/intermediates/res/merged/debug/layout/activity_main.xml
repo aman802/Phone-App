@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:id="@+id/LL">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:name="com.aman802.phoneapp.ContactListFragment"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:id = "@+id/contact"/>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:name="com.aman802.phoneapp.DialPadFragment"
+        android:layout_below="@+id/fragment"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_weight="2"
+        android:id="@+id/dialpad"/>
+</LinearLayout>
+<!-- From: file:/C:/Users/Aman%20Vangani/AndroidStudioProjects/PhoneApp/app/src/main/res/layout/activity_main.xml -->

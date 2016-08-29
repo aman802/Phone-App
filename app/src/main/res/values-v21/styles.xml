@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Aman">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">#EEEEEE</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+    <style name="buttonStyle_dark">
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">#616161</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+</resources>

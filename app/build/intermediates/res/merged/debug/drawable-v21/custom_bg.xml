@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="#b6b6b6">
+    <item android:id="@android:id/mask" android:drawable="@android:color/white"/>
+</ripple><!-- From: file:/C:/Users/Aman%20Vangani/AndroidStudioProjects/PhoneApp/app/src/main/res/drawable-v21/custom_bg.xml -->

@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.aman802.phoneapp.Settings"
+    android:id="@+id/LS"
+    android:orientation="vertical">
+
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dark Mode"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/checkBox"
+        android:checked="false"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vibration"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/vibration"
+        android:checked="false"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Speed Dial Settings"
+        android:textStyle="bold"
+        android:id="@+id/speed"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Favorites"
+        android:textStyle="bold"
+        android:id="@+id/fav"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/save"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Aman%20Vangani/AndroidStudioProjects/PhoneApp/app/src/main/res/layout/activity_settings.xml -->
