@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#42A5F5</color>
+    <color name="dialpad_background">#1d1d1d</color>
+    <color name="default_color">#ffffff</color>
+    <color name="reverse_color">#000000</color>
+    <color name="divider_color">#424242</color>
+</resources>

@@ -1,124 +1,287 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:2:1-58:12
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/0b040ae6fd7360855475a012c5af81a6/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/aman/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.quiph.ui:recyclerviewfastscroller:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/2ad2f6a3b2210e160a338e1cdb4357d8/appcompat-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d9c8547f43bfc98a7c33c7a922993a2d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5fcf58f467c61301f7dd22175ddca6ba/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b154dbc73687587a7ce14e229cc71d1e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/9fcad328f6b514cf858651d19e23fc79/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3b91b187821fc6e4f6300506297b769e/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/7f64c1045ae362310688a10253c2a109/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/fcc32fb6a5b1c720640eae2793bf295e/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] /Users/aman/.gradle/caches/transforms-2/files-2.1/c7777e08ce7ff70dac4b7f8894ca6295/recyclerview-1.2.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/aman/.gradle/caches/transforms-2/files-2.1/70b7c7c5ee3b3daf7b37d15b112bb2b6/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/a010572e457cb5ca2a044d20ab51c2d8/fragment-1.3.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/c6fc92858fd4c85506fd5cf8e8cf7ff9/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/4435e8d58d02dc7b07e17497c28d5ab2/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/625164c159153d535e21912165a45813/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/aman/.gradle/caches/transforms-2/files-2.1/00fb61985e48156fbf61ef4f29b8a489/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/af6343a1c3b35792cf0d4091988f4de9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/d93279df20cde73779374936bdcfbfc2/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:5:5-69
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:6:5-69
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:5:22-66
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:6:5-75
-	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:6:22-72
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:6:22-66
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:7:5-72
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:7:5-72
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:7:22-69
-uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:8:5-65
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:8:5-72
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:8:22-63
-uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:9:5-80
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:9:5-73
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:9:22-70
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:10:22-72
 application
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:11:5-56:19
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:12:5-64:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/0b040ae6fd7360855475a012c5af81a6/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/0b040ae6fd7360855475a012c5af81a6/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/aman/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/aman/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:17:9-35
 	android:icon
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:13:9-39
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.aman802.phoneapp.MainActivity
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:16:9-20:20
-	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:19:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.aman802.phoneapp.CallActivity
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:18:9-59
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:17:13-41
-activity#com.aman802.phoneapp.SpeedDial
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:21:9-25:20
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.aman802.phoneapp.SearchActivity
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:19:9-21:52
 	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:24:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:23:13-62
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:22:13-38
-activity#com.aman802.phoneapp.About
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:26:9-30:20
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:20:13-43
+activity#com.aman802.phoneapp.LauncherActivity
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:22:9-44:20
 	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:29:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:28:13-57
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:27:13-34
-activity#com.aman802.phoneapp.Help
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:31:9-35:20
-	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:34:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:33:13-56
-	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:32:13-33
-activity#com.aman802.phoneapp.Splash
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:36:9-45:20
-	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:39:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:38:13-38
-	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:37:13-35
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:40:13-44:29
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:23:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:43:27-74
-activity#com.aman802.phoneapp.Settings
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:46:9-50:20
-	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:49:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:48:13-60
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:28:27-74
+intent-filter#action:name:android.intent.action.DIAL+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:30:13-38:29
+action#android.intent.action.VIEW
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:47:13-37
-activity#com.aman802.phoneapp.Favorites
-ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:51:9-55:20
-	android:screenOrientation
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:54:13-49
-	android:label
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:53:13-61
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:31:25-66
+action#android.intent.action.DIAL
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml:52:13-38
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:34:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:35:27-75
+data
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:37:17-46
+	android:scheme
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:37:23-43
+intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:39:13-43:29
+service#com.aman802.phoneapp.CallService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:46:9-56:19
+	android:permission
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:47:13-40
+meta-data#android.telecom.IN_CALL_SERVICE_UI
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:50:17-66
+intent-filter#action:name:android.telecom.InCallService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:53:13-55:29
+action#android.telecom.InCallService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:54:17-72
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:54:25-69
+service#com.aman802.phoneapp.ConnectionService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:57:9-62:19
+	android:permission
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:58:13-84
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:57:18-51
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:59:13-61:29
+action#android.telecom.ConnectionService
+ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml:60:25-73
 uses-sdk
-INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/0b040ae6fd7360855475a012c5af81a6/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/0b040ae6fd7360855475a012c5af81a6/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/aman/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/aman/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quiph.ui:recyclerviewfastscroller:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.quiph.ui:recyclerviewfastscroller:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/2ad2f6a3b2210e160a338e1cdb4357d8/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/2ad2f6a3b2210e160a338e1cdb4357d8/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d9c8547f43bfc98a7c33c7a922993a2d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d9c8547f43bfc98a7c33c7a922993a2d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5fcf58f467c61301f7dd22175ddca6ba/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5fcf58f467c61301f7dd22175ddca6ba/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b154dbc73687587a7ce14e229cc71d1e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b154dbc73687587a7ce14e229cc71d1e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/9fcad328f6b514cf858651d19e23fc79/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/9fcad328f6b514cf858651d19e23fc79/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3b91b187821fc6e4f6300506297b769e/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3b91b187821fc6e4f6300506297b769e/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/7f64c1045ae362310688a10253c2a109/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/7f64c1045ae362310688a10253c2a109/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/fcc32fb6a5b1c720640eae2793bf295e/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/fcc32fb6a5b1c720640eae2793bf295e/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] /Users/aman/.gradle/caches/transforms-2/files-2.1/c7777e08ce7ff70dac4b7f8894ca6295/recyclerview-1.2.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] /Users/aman/.gradle/caches/transforms-2/files-2.1/c7777e08ce7ff70dac4b7f8894ca6295/recyclerview-1.2.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/aman/.gradle/caches/transforms-2/files-2.1/70b7c7c5ee3b3daf7b37d15b112bb2b6/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/aman/.gradle/caches/transforms-2/files-2.1/70b7c7c5ee3b3daf7b37d15b112bb2b6/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/a010572e457cb5ca2a044d20ab51c2d8/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/a010572e457cb5ca2a044d20ab51c2d8/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/c6fc92858fd4c85506fd5cf8e8cf7ff9/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/aman/.gradle/caches/transforms-2/files-2.1/c6fc92858fd4c85506fd5cf8e8cf7ff9/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha02] /Users/aman/.gradle/caches/transforms-2/files-2.1/27e0155f3903cdd280cc36736add4ccf/core-1.5.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/4435e8d58d02dc7b07e17497c28d5ab2/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/4435e8d58d02dc7b07e17497c28d5ab2/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/625164c159153d535e21912165a45813/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/625164c159153d535e21912165a45813/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/aman/.gradle/caches/transforms-2/files-2.1/00fb61985e48156fbf61ef4f29b8a489/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/aman/.gradle/caches/transforms-2/files-2.1/00fb61985e48156fbf61ef4f29b8a489/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/af6343a1c3b35792cf0d4091988f4de9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/af6343a1c3b35792cf0d4091988f4de9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/d93279df20cde73779374936bdcfbfc2/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/aman/.gradle/caches/transforms-2/files-2.1/d93279df20cde73779374936bdcfbfc2/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/aman/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Aman Vangani\AndroidStudioProjects\PhoneApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aman/Desktop/Phone-App/app/src/main/AndroidManifest.xml

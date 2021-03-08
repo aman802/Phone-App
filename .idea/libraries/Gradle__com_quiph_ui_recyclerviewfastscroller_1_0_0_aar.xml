@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quiph.ui:recyclerviewfastscroller:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/138bfad36d72e2652d754dd81afec59f/jetified-recyclerviewfastscroller-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.quiph.ui/recyclerviewfastscroller/1.0.0/b8342b7576ced167b13a7158753fbd03b7caf80a/recyclerviewfastscroller-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.quiph.ui/recyclerviewfastscroller/1.0.0/b920545abe2abbebc15a04e30d1cf2021e7ca227/recyclerviewfastscroller-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
